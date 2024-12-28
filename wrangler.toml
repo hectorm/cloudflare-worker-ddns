@@ -1,0 +1,12 @@
+name = "ddns"
+main = "src/index.js"
+compatibility_date = "2024-12-24"
+no_bundle = true
+keep_vars = true
+send_metrics = false
+
+[observability]
+enabled = true
+
+[observability.logs]
+enabled = true

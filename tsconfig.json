@@ -1,0 +1,13 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "checkJs": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "strict": true,
+    "noUnusedLocals": true
+  }
+}
